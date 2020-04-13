@@ -2,10 +2,9 @@
 
 A Quasar Framework app
 
-## Install the dependencies
-```bash
-yarn
-```
+## Print
+
+[![N|Solid](https://github.com/patrickmonteiro/quasar-audio-record/blob/master/docs/print.png?raw=true)](https://quasaraudiorecord.surge.sh)
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
